@@ -1,0 +1,10 @@
+origin is (20, 200);
+rot is -16+5**3/cos(T);  
+scale is (40, 40);
+for T from 0 to 2*pi step pi/50 draw (t, -sin(t));
+origin is (20, 240);
+for T from 0 to 2*pi step pi/50 draw (t, -sin(t));
+origin is (20, 280);
+for T from 0 to 2*pi step pi/50 draw (t, -sin(t));
+
+

@@ -1,0 +1,3 @@
+ROT is 0;
+SCALE IS (1, 1);
+FOR T FROM 0 TO 2*PI STEP pi/50 DRAW (cos(T),sin(T));
