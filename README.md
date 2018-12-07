@@ -34,3 +34,6 @@ For T From xx to xx step xx draw  (xx,xx)   / 画图
 
 测试结果：
 
+![](https://github.com/SecYiDa/Fundamental-Of-Compile/blob/master/TestResult/Figure_1.png)
+
+![](https://github.com/SecYiDa/Fundamental-Of-Compile/blob/master/TestResult/Figure_2.png)
